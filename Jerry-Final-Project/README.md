@@ -181,11 +181,11 @@ The terminal will provide a URL based on your computer device; clicking it will 
 
 <h2 style="font-size:32px;">🚀 7. Deployment — HuggingFace Spaces</h2>
 
-(Hugging Face link)
+[(Hugging Face link)](https://huggingface.co/spaces/JerryWan0618/Jerry-BinarySearch-Visualizer)
 
 <h2 style="font-size:32px;">🌐 8. GitHub Repository</h2>
 
-(GitHub link)
+[(GitHub link)](https://github.com/JerryWan123/Jerry-Final-Project/tree/main/Jerry-Final-Project)
 
 <h2 style="font-size:32px;">🏁 9. Author/Acknowledgements</h2>
 
